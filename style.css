@@ -16,3 +16,9 @@ ul {
     margin: auto;
     padding: 11.25rem 2.2rem 2.2rem 2.2rem;
 }
+
+#search-bar {
+    display: block;
+    margin: auto;
+    padding: 0.5rem 8rem 0.5rem 8rem;
+}
